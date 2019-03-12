@@ -1,6 +1,6 @@
 # doovy.me.original
 
-This was one of my first repositories, and one of my first HTML/CSS projects in a very very long time.
+> This ~~is~~ was one of my first repositories, and one of my first HTML/CSS projects in a very very long time.
 
 I built this site from scratch to get myself back into the flow of HTML/CSS, and get used to my development environment with Git, Atom, and Cmder.
 
